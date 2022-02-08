@@ -1,0 +1,20 @@
+﻿  Scrambl.cpp
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(239,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(239,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(278,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(340,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(342,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(344,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(347,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(362,47): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(364,47): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(366,41): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(478,38): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(504,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(506,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(507,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(507,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(508,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(524,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\renat\source\repos\Scrambl\Scrambl\Scrambl.cpp(525,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Scrambl.vcxproj -> C:\Users\renat\source\repos\Scrambl\Debug\Scrambl.exe
